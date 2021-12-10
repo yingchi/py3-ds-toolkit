@@ -1,3 +1,7 @@
+# Intro
+Personal repository to store useful Python3 Data Science code snippets and useful little tools to assist a lazy Data Scientist with
+very poor memory. :-)
+
 # Python and Data Science Code Snippets
 Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/). You can receive these daily tips in your mailbox for free by [subscribing to the website](https://mathdatasimplified.com/).
 
